@@ -1,1 +1,1 @@
-# boxxy-sync
+# boxxy-sync (server)
